@@ -1,0 +1,5 @@
+# Ключи и локальные настройки не храним
+secrets.php
+config.local.php
+.env
+node_modules/
